@@ -3,8 +3,8 @@
    
    请将yolo文件夹中文件放置到ultralytics目录下
    ultralytics/
-   
-       train.py
+   |
+   |--train.py
    
        gui.py
    
