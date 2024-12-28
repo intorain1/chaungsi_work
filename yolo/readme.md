@@ -3,15 +3,21 @@
    
    请将yolo文件夹中文件放置到ultralytics目录下
    
-   ultralytics/
+   project-name/
+│
+├── dir1/
+│   ├── file1.ext
+│   └── file2.ext
+│
+├── dir2/
+│   ├── sub-dir1/
+│   │   └── file3.ext
+│   └── sub-dir2/
+│
+└── dir3/
+    ├── file4.ext
+    └── file5.ext
 
-         train.py
-   
-         gui.py
-   
-         data.yaml
-   
-         best.pt
 3. **运行**
    
    ```bash
