@@ -18,11 +18,20 @@
    ```bash
    git clone https://github.com/intorain1/detector.git
    
-2. **运行yolo结果（可以都试试看）**
+3. **运行yolo结果**
    ```bash
    git clone https://github.com/ultralytics/ultralytics.git
    pip install ultralytics
    cd ultralytics
    ```
    然后去看yolo文件夹的readme吧
+
+4. **运行传统代码结果**
+   懒得可视化了 效果太差）去看old文件夹里的readme运行运行就好
+
+5. **运行我们自己搭的代码的结果**
+   ```bash
+   cd ours
+   python gui.py
+   
    
