@@ -4,14 +4,14 @@
    请将yolo文件夹中文件放置到ultralytics目录下
    
    ultralytics/
-   |
-   |--train.py
+
+         train.py
    
-       gui.py
+         gui.py
    
-       data.yaml
+         data.yaml
    
-       best.pt
+         best.pt
 3. **运行**
    
    ```bash
