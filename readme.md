@@ -22,4 +22,7 @@
    ```bash
    git clone https://github.com/ultralytics/ultralytics.git
    pip install ultralytics
+   cd ultralytics
+   ```
+   然后去看yolo文件夹的readme吧
    
