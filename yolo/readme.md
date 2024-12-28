@@ -7,7 +7,7 @@
        data.yaml
        best.pt
 2. **运行**
-       ```bash
+   ```bash
    python gui.py
 3. **训练**
      请参照data.yaml格式配置数据集，注意，数据集要符合yolo官方标准，可以在ultralytics的readme中获取
