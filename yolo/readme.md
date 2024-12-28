@@ -3,9 +3,13 @@
    
    请将yolo文件夹中文件放置到ultralytics目录下
    ultralytics/
+   
        train.py
+   
        gui.py
+   
        data.yaml
+   
        best.pt
 3. **运行**
    
