@@ -27,8 +27,12 @@
    然后去看yolo文件夹的readme吧
 
 4. **运行传统代码结果**
-5. 
-   懒得可视化了 效果太差）去看old文件夹里的readme运行运行就好
+ 
+   懒得可视化了 效果太差）记得要修改network.py里的路径
+   ```bash
+   cd old
+   python network.py
+   ```
 
 6. **运行我们自己搭的代码的结果**
    ```bash
