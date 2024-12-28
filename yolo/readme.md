@@ -5,10 +5,13 @@
 
 3. **运行**
    
+   先修改gui.py中self.background_image对应的路径，可以换成自己喜欢的图片，然后
    ```bash
    python gui.py
    ```
-   ![项目图片](2.png) 
+   ![项目图片](2.png)
+   
+   选择模型权重best.pt,选择测试图片test.jpg,也可以打开你的摄像头咳
 5. **训练**
    
      请参照data.yaml格式配置数据集，注意，数据集要符合yolo官方标准，可以在ultralytics的readme中获取
