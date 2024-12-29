@@ -1,6 +1,6 @@
 1. **权重获取**
    
-  we provide the weights for our dataset on [Link]([Link](https://jbox.sjtu.edu.cn/l/v12bID)) ,you can download it from jbox
+  we provide the weights for our dataset on [Link](https://jbox.sjtu.edu.cn/l/v12bID) ,you can download it from jbox
 
 2. **运行**
 
