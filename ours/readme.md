@@ -1,6 +1,6 @@
 1. **权重获取**
    
-  we provide the weights for our dataset on[超链接描述文本](Link) ,you can download it from jbox
+  we provide the weights for our dataset on[Link](Link) ,you can download it from jbox
 
 2. **运行**
 
@@ -11,3 +11,6 @@
    ```
 3. **训练**
    more details and codes will be realeased soon.
+
+4. **效果展示**
+   
