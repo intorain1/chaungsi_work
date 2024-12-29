@@ -1,6 +1,6 @@
 1. **权重获取**
    
-  we provide the weights for our dataset on[超链接描述文本](超链接 "可选的标题") ,you can download it from jbox
+  we provide the weights for our dataset on[超链接描述文本](Link) ,you can download it from jbox
 
 2. **运行**
 
